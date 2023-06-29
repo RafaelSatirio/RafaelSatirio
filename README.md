@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafaelsatirio_)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsatírio&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSatirio&show_icons=true&theme=radical)
 
 
 ## Linguagens que uso com mais frequência
